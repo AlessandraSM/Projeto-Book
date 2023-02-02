@@ -4,7 +4,7 @@ import './styled.css'
 function Logo() {
     return(
         <div className="logo">
-          <img src={logo} alt='Logo'></img>
+          <img src={logo} className='log' alt='Logo'></img>
           <p><strong>The</strong>Books</p>
         </div>
     )
