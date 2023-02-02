@@ -1,14 +1,11 @@
 import "./App.css";
-import logo from './img/logo.svg'
+import Logo from "./componentes/Logo/index.js"
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div className="logo">
-          <img src={logo} alt='Logo'></img>
-          <p><strong>The</strong>Books</p>
-        </div>
+       <Logo />
       </header>
     </div>
   );
