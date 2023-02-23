@@ -1,8 +1,18 @@
 .logo {
-  display: flex;
-  font-size: 30px;
+    display: flex;
+    font-size: 30px;
+}
+.App-logo {
+    margin-right: 10px;
 }
 
-.log {
-  margin-right: 10px;
-}
+
+
+
+
+
+
+
+
+
+
