@@ -3,6 +3,7 @@ import Header from "./componentes/Header";
 import Pesquisa from "./componentes/Pesquisa";
 
 
+
 const AppContainer = styled.div`
   width: 100vw;
   height: 100vh;
