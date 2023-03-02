@@ -6,7 +6,7 @@ import OpcoesHeader from "../OpcoesHeader"
 
 const HeaderContainer = styled.header`
     background-color: whitesmoke;
-    background-image: linear-gradient(90deg, #f4a75b 35%, #f76c21);
+    background-image: linear-gradient(90deg,  #f76c21 35%, #eb9b00);
     display: flex;
     justify-content: center;
 `
